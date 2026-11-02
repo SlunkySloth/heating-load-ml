@@ -1,0 +1,10 @@
+{
+  "Ridge": {
+    "model__alpha": 0.05623413251903491
+  },
+  "Random Forest": {
+    "max_depth": null,
+    "max_features": 0.75,
+    "min_samples_leaf": 1
+  }
+}
